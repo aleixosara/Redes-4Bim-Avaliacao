@@ -37,7 +37,6 @@ public class Main {
         } else {
             System.out.println("Endereço IP inválido");
         }
-
     }
 
     public static boolean validateIp(String ip, String[] partes) {
